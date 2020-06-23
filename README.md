@@ -1,6 +1,6 @@
 ## WAF bypass
 
-Kcon 2019 <How to break through Cloud-Based WAF>
+How to break through Cloud-Based WAF
 
 https://github.com/pyn3rd/WAF-bypass/blob/master/KCon_2019_WAF.pdf
 
