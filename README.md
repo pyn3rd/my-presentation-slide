@@ -1,16 +1,12 @@
-## WAF bypass
-
-How to Break Through Cloud-Based WAF
-
-https://github.com/pyn3rd/WAF-bypass/blob/master/KCon_2019_WAF.pdf
+## My Papers in Security Conference
 
 
-WAF Bypassing with Unicode Compatibility
 
-https://jlajara.gitlab.io/web/2020/02/19/Bypass_WAF_Unicode.html
+《How to Break Through Cloud-Based WAF》 
 
-Web Client Side WAF - Tala Security
 
-https://github.com/pyn3rd/WAF-bypass/blob/master/Tala-Security.pdf
+
+
+《Web Client Side WAF - Tala-Security》
 
 
