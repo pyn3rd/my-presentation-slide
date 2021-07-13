@@ -1,8 +1,8 @@
 ## My Papers in Security Conference
 
-《A New Way to Expliot Weblogic Server》—— HITB Amsterdam 2020
+《A New Way to Expliot Weblogic Server》—— HITB 2020，Amsterdam
 
-《Web Client Side WAF - Tala-Security Introduction》
+《Web Client Side WAF - Tala-Security Introduction》 
 
 《How to Break Through Cloud-Based WAF》 —— Kcon 2019, Beijing
  
