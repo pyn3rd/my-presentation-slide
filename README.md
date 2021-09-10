@@ -3,7 +3,7 @@
 
 《A New Way to Expliot Weblogic Server》—— HITB 2020，Amsterdam
 
-《Web Client Side WAF - Tala-Security Introduction》 
+《Web Client Side WAF - Tala-Security Introduction》 - FreeTalk, Hangzhou
 
 《How to Break Through Cloud-Based WAF》 —— Kcon 2019, Beijing
  
