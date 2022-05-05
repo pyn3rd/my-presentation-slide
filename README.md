@@ -1,7 +1,7 @@
 ## My Papers in Security Conference
 《Make JDBC Attack Brilliant Again》 - HITB 2021，Singapore
 
-《A New Way to Expliot Weblogic Server》- HITB 2020，Amsterdam
+《Exploit Weblogic Server Involving XMLDecoder》- HITB 2020，Amsterdam
 
 《Web Client Side WAF - Tala-Security Introduction》 - FreeTalk, Hangzhou
 
