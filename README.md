@@ -1,4 +1,7 @@
 ## My Papers in Security Conference
+
+《A New Attack Interface in Java Applications》- BlackHat Asia 2023, Singapore
+
 《Make JDBC Attack Brilliant Again》 - HITB 2021，Singapore
 
 《Exploit Weblogic Server Involving XMLDecoder》- HITB 2020，Amsterdam
